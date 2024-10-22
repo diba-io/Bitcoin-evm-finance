@@ -5,7 +5,7 @@
 # Features:
 1 **Bitcoin EVM Compatibility:** Seamlessly connect to Bitcoin EVM chains like Rootstock (RSK) to interact with Bitcoin-based smart contracts.
 
-2 **Send & Receive BTC:** Manage Bitcoin and other EVM-compatible tokens with ease.
+2 **Send & Receive wBTC:** Manage wrapped bitcoin and other EVM-compatible tokens with ease.
 
 3 **Smart Contract Support:** Interact with Bitcoin-sidechain dApps using familiar EVM tools.
 
